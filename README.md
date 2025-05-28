@@ -1,6 +1,6 @@
 # Design-a-Basic-Mobile-and-Web-Layout-for-an-Existing-Case-Study
-# Pranav Krishna T
-# Reg No:212224040241
+# steve nittin sylus
+# Reg No:212224040331
 
 # Design a Basic Mobile and Web Layout for an Existing Case Study
 
